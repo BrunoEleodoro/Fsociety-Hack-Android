@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "996735592763",
+    "firebase_url": "https://brunofsociety-4204c.firebaseio.com",
+    "project_id": "brunofsociety-4204c",
+    "storage_bucket": "brunofsociety-4204c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996735592763:android:4c637c8a064c9226",
+        "android_client_info": {
+          "package_name": "com.brunoeleodoro.org.fsocietyhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996735592763-oehbg6eerng91a0hoqt8605kijt33ooc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.fsocietyhack",
+            "certificate_hash": "7c1366c70b332ec21184e82fbe8b94390f7b09db"
+          }
+        },
+        {
+          "client_id": "996735592763-9igsvmfmr1q88cgo2dg5n7i6p1a4htds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunoeleodoro.org.fsocietyhack",
+            "certificate_hash": "2ee3109cc0bfde23f1911babc3b2bc50c66a1403"
+          }
+        },
+        {
+          "client_id": "996735592763-cu75ncf6lq4la7mgs1nu0ps36376cgac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX55iVfsN_Ph04kMDhCOzvVp4vKwDI0e4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996735592763-cu75ncf6lq4la7mgs1nu0ps36376cgac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
